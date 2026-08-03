@@ -1,0 +1,1 @@
+const t="quad-hero-5-4x5",e="Hero + Quad 5 (4x5)",a=.8,h=[{x:0,y:0,width:100,height:55},{x:0,y:55,width:50,height:22.5},{x:50,y:55,width:50,height:22.5},{x:0,y:77.5,width:50,height:22.5},{x:50,y:77.5,width:50,height:22.5}],o=["hero","5-photos","4x5"],i={id:t,name:e,aspectRatio:.8,zones:h,tags:o};export{a as aspectRatio,i as default,t as id,e as name,o as tags,h as zones};

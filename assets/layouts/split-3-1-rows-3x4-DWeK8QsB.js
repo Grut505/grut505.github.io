@@ -1,0 +1,1 @@
+const t="split-3-1-rows-3x4",s="Split 3+1 Rows (3x4)",e=.75,i=[{x:0,y:0,width:33.33,height:45},{x:33.33,y:0,width:33.33,height:45},{x:66.66,y:0,width:33.34,height:45},{x:0,y:45,width:100,height:55}],o=["split","4-photos","3x4"],h={id:t,name:s,aspectRatio:.75,zones:i,tags:o};export{e as aspectRatio,h as default,t as id,s as name,o as tags,i as zones};

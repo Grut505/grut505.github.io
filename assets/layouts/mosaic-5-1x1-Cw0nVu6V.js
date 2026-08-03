@@ -1,0 +1,1 @@
+const t="mosaic-5-1x1",i="Mosaic 5 (1x1)",a=1,s=[{x:0,y:0,width:60,height:60},{x:60,y:0,width:40,height:30},{x:60,y:30,width:40,height:30},{x:0,y:60,width:40,height:40},{x:40,y:60,width:60,height:40}],o=["mosaic","5-photos","1x1"],h={id:t,name:i,aspectRatio:1,zones:s,tags:o};export{a as aspectRatio,h as default,t as id,i as name,o as tags,s as zones};

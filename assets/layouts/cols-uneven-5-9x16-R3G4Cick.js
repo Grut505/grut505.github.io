@@ -1,0 +1,1 @@
+const t="cols-uneven-5-9x16",e="Columns Uneven 5 (9x16)",o=.5625,s=[{x:0,y:0,width:30,height:100},{x:30,y:0,width:20,height:100},{x:50,y:0,width:20,height:100},{x:70,y:0,width:15,height:100},{x:85,y:0,width:15,height:100}],n=["columns","5-photos","9x16"],h={id:t,name:e,aspectRatio:.5625,zones:s,tags:n};export{o as aspectRatio,h as default,t as id,e as name,n as tags,s as zones};

@@ -1,0 +1,1 @@
+const t="stagger-5-1x1.44",s="Stagger 5 (1x1.44)",h=.694444,e=[{x:0,y:0,width:50,height:40},{x:50,y:0,width:50,height:60},{x:0,y:40,width:50,height:60},{x:50,y:60,width:25,height:40},{x:75,y:60,width:25,height:40}],a=["mosaic","5-photos","1x1.44"],i={id:t,name:s,aspectRatio:.694444,zones:e,tags:a};export{h as aspectRatio,i as default,t as id,s as name,a as tags,e as zones};

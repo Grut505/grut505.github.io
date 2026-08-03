@@ -1,0 +1,1 @@
+const t="l-corner-4-bl-1x1.44",o="L-Corner 4 (bottom-left) (1x1.44)",h=.694444,e=[{x:0,y:40,width:60,height:60},{x:60,y:40,width:40,height:60},{x:0,y:0,width:50,height:40},{x:50,y:0,width:50,height:40}],s=["hero","4-photos","1x1.44"],i={id:t,name:o,aspectRatio:.694444,zones:e,tags:s};export{h as aspectRatio,i as default,t as id,o as name,s as tags,e as zones};

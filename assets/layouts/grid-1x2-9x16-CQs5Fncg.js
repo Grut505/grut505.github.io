@@ -1,0 +1,1 @@
+const t="grid-1x2-9x16",s="Grid 1x2 (9x16)",a=.5625,o=[{x:0,y:0,width:50,height:100},{x:50,y:0,width:50,height:100}],i=["grid","2-photos","9x16"],e={id:t,name:s,aspectRatio:.5625,zones:o,tags:i};export{a as aspectRatio,e as default,t as id,s as name,i as tags,o as zones};

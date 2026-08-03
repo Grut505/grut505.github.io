@@ -1,0 +1,1 @@
+const t="algo-5-40-16x9",o="col-2.3 / 3=[1.2] (16x9)",i=1.7778,h=[{x:0,y:0,width:50,height:50},{x:0,y:50,width:50,height:50},{x:50,y:0,width:50,height:50},{x:50,y:50,width:25,height:50},{x:75,y:50,width:25,height:50}],a=["5-photos","algo","16x9"],s={id:t,name:o,aspectRatio:1.7778,zones:h,tags:a};export{i as aspectRatio,s as default,t as id,o as name,a as tags,h as zones};

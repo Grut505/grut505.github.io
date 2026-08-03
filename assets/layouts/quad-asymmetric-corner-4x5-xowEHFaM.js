@@ -1,0 +1,1 @@
+const t="quad-asymmetric-corner-4x5",e="Asymmetric Corner Quad (4x5)",o=.8,s=[{x:0,y:0,width:65,height:65},{x:65,y:0,width:35,height:65},{x:0,y:65,width:65,height:35},{x:65,y:65,width:35,height:35}],i=["grid","4-photos","4x5"],a={id:t,name:e,aspectRatio:.8,zones:s,tags:i};export{o as aspectRatio,a as default,t as id,e as name,i as tags,s as zones};

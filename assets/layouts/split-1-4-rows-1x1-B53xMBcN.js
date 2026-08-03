@@ -1,0 +1,1 @@
+const t="split-1-4-rows-1x1",s="Split 1+4 Rows (top wide) (1x1)",h=1,i=[{x:0,y:0,width:100,height:40},{x:0,y:40,width:25,height:60},{x:25,y:40,width:25,height:60},{x:50,y:40,width:25,height:60},{x:75,y:40,width:25,height:60}],o=["split","5-photos","1x1"],e={id:t,name:s,aspectRatio:1,zones:i,tags:o};export{h as aspectRatio,e as default,t as id,s as name,o as tags,i as zones};

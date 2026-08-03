@@ -1,0 +1,1 @@
+const t="hero-top-quad-split-2x3",o="Hero Top + Split 2/1 (2x3)",i=.6667,e=[{x:0,y:0,width:100,height:50},{x:0,y:50,width:50,height:25},{x:0,y:75,width:50,height:25},{x:50,y:50,width:50,height:50}],h=["hero","4-photos","2x3"],s={id:t,name:o,aspectRatio:.6667,zones:e,tags:h};export{i as aspectRatio,s as default,t as id,o as name,h as tags,e as zones};

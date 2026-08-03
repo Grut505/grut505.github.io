@@ -1,0 +1,1 @@
+const t="hero-top-row-5-3x4",o="Hero Top Row 5 (3x4)",i=.75,h=[{x:0,y:0,width:100,height:50},{x:0,y:50,width:25,height:50},{x:25,y:50,width:25,height:50},{x:50,y:50,width:25,height:50},{x:75,y:50,width:25,height:50}],e=["hero","5-photos","3x4"],s={id:t,name:o,aspectRatio:.75,zones:h,tags:e};export{i as aspectRatio,s as default,t as id,o as name,e as tags,h as zones};

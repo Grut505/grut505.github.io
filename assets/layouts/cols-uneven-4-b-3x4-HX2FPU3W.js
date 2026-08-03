@@ -1,0 +1,1 @@
+const t="cols-uneven-4-b-3x4",e="Columns Uneven 4 (right) (3x4)",o=.75,s=[{x:0,y:0,width:20,height:100},{x:20,y:0,width:20,height:100},{x:40,y:0,width:20,height:100},{x:60,y:0,width:40,height:100}],n=["columns","4-photos","3x4"],h={id:t,name:e,aspectRatio:.75,zones:s,tags:n};export{o as aspectRatio,h as default,t as id,e as name,n as tags,s as zones};

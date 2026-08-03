@@ -1,0 +1,1 @@
+const t="hero-right-col-4-4x3",o="Hero Right Column 4 (4x3)",i=1.3333,h=[{x:0,y:0,width:45,height:33.33},{x:0,y:33.33,width:45,height:33.33},{x:0,y:66.66,width:45,height:33.34},{x:45,y:0,width:55,height:100}],e=["hero","4-photos","4x3"],s={id:t,name:o,aspectRatio:1.3333,zones:h,tags:e};export{i as aspectRatio,s as default,t as id,o as name,e as tags,h as zones};

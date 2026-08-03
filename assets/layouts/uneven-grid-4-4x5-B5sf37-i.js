@@ -1,0 +1,1 @@
+const t="uneven-grid-4-4x5",e="Uneven Grid 4 (4x5)",s=.8,i=[{x:0,y:0,width:65,height:60},{x:65,y:0,width:35,height:60},{x:0,y:60,width:65,height:40},{x:65,y:60,width:35,height:40}],n=["grid","4-photos","4x5"],o={id:t,name:e,aspectRatio:.8,zones:i,tags:n};export{s as aspectRatio,o as default,t as id,e as name,n as tags,i as zones};

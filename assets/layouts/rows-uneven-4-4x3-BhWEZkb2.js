@@ -1,0 +1,1 @@
+const t="rows-uneven-4-4x3",e="Rows Uneven 4 (4x3)",n=1.3333,s=[{x:0,y:0,width:100,height:40},{x:0,y:40,width:100,height:20},{x:0,y:60,width:100,height:20},{x:0,y:80,width:100,height:20}],o=["rows","4-photos","4x3"],h={id:t,name:e,aspectRatio:1.3333,zones:s,tags:o};export{n as aspectRatio,h as default,t as id,e as name,o as tags,s as zones};

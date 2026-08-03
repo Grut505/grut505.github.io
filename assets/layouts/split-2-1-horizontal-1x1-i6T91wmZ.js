@@ -1,0 +1,1 @@
+const t="split-2-1-horizontal-1x1",o="Split 2/1 Horizontal (1x1)",a=1,i=[{x:0,y:0,width:100,height:66.67},{x:0,y:66.67,width:50,height:33.33},{x:50,y:66.67,width:50,height:33.33}],s=["split","3-photos","1x1"],n={id:t,name:o,aspectRatio:1,zones:i,tags:s};export{a as aspectRatio,n as default,t as id,o as name,s as tags,i as zones};

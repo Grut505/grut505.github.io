@@ -1,0 +1,1 @@
+const t="hero-bottom-quad-split-4x5",o="Hero Bottom + Split 2/1 (4x5)",i=.8,e=[{x:0,y:0,width:50,height:25},{x:0,y:25,width:50,height:25},{x:50,y:0,width:50,height:50},{x:0,y:50,width:100,height:50}],h=["hero","4-photos","4x5"],s={id:t,name:o,aspectRatio:.8,zones:e,tags:h};export{i as aspectRatio,s as default,t as id,o as name,h as tags,e as zones};

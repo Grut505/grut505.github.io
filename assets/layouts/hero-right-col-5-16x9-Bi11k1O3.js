@@ -1,0 +1,1 @@
+const t="hero-right-col-5-16x9",h="Hero Right Column 5 (16x9)",i=1.7778,o=[{x:0,y:0,width:50,height:25},{x:0,y:25,width:50,height:25},{x:0,y:50,width:50,height:25},{x:0,y:75,width:50,height:25},{x:50,y:0,width:50,height:100}],e=["hero","5-photos","16x9"],s={id:t,name:h,aspectRatio:1.7778,zones:o,tags:e};export{i as aspectRatio,s as default,t as id,h as name,e as tags,o as zones};

@@ -1,0 +1,1 @@
+const t="triband-4-16x9",i="Triband 4 (16x9)",o=1.7778,s=[{x:0,y:0,width:50,height:50},{x:0,y:50,width:50,height:50},{x:50,y:0,width:25,height:100},{x:75,y:0,width:25,height:100}],a=["split","4-photos","16x9"],e={id:t,name:i,aspectRatio:1.7778,zones:s,tags:a};export{o as aspectRatio,e as default,t as id,i as name,a as tags,s as zones};

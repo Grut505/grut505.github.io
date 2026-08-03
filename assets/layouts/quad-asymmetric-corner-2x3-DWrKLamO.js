@@ -1,0 +1,1 @@
+const t="quad-asymmetric-corner-2x3",e="Asymmetric Corner Quad (2x3)",o=.6667,s=[{x:0,y:0,width:65,height:65},{x:65,y:0,width:35,height:65},{x:0,y:65,width:65,height:35},{x:65,y:65,width:35,height:35}],i=["grid","4-photos","2x3"],a={id:t,name:e,aspectRatio:.6667,zones:s,tags:i};export{o as aspectRatio,a as default,t as id,e as name,i as tags,s as zones};

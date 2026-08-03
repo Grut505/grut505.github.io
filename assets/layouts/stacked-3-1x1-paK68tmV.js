@@ -1,0 +1,1 @@
+const t="stacked-3-1x1",s="Stacked 3 (1x1)",o=1,a=[{x:0,y:0,width:100,height:33.33},{x:0,y:33.33,width:100,height:33.33},{x:0,y:66.66,width:100,height:33.34}],e=["stacked","3-photos","1x1"],c={id:t,name:s,aspectRatio:1,zones:a,tags:e};export{o as aspectRatio,c as default,t as id,s as name,e as tags,a as zones};

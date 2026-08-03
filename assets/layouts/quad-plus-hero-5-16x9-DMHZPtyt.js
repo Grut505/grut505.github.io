@@ -1,0 +1,1 @@
+const t="quad-plus-hero-5-16x9",s="Quad Plus Hero 5 (16x9)",h=1.7778,o=[{x:0,y:0,width:50,height:50},{x:50,y:0,width:50,height:50},{x:0,y:50,width:50,height:50},{x:50,y:50,width:50,height:25},{x:50,y:75,width:50,height:25}],e=["mosaic","5-photos","16x9"],a={id:t,name:s,aspectRatio:1.7778,zones:o,tags:e};export{h as aspectRatio,a as default,t as id,s as name,e as tags,o as zones};

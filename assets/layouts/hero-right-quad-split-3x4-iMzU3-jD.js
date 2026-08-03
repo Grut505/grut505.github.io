@@ -1,0 +1,1 @@
+const t="hero-right-quad-split-3x4",h="Hero Right + Split 2/1 (3x4)",e=.75,i=[{x:0,y:0,width:50,height:50},{x:0,y:50,width:25,height:50},{x:25,y:50,width:25,height:50},{x:50,y:0,width:50,height:100}],o=["hero","4-photos","3x4"],s={id:t,name:h,aspectRatio:.75,zones:i,tags:o};export{e as aspectRatio,s as default,t as id,h as name,o as tags,i as zones};

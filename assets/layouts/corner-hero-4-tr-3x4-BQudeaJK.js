@@ -1,0 +1,1 @@
+const t="corner-hero-4-tr-3x4",o="Corner Hero 4 (top-right) (3x4)",s=.75,e=[{x:0,y:0,width:35,height:65},{x:35,y:0,width:65,height:65},{x:0,y:65,width:35,height:35},{x:35,y:65,width:65,height:35}],h=["hero","4-photos","3x4"],i={id:t,name:o,aspectRatio:.75,zones:e,tags:h};export{s as aspectRatio,i as default,t as id,o as name,h as tags,e as zones};

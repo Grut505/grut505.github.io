@@ -1,0 +1,1 @@
+const t="split-1-3-cols-1x1",s="Split 1+3 Columns (1x1)",e=1,i=[{x:0,y:0,width:45,height:100},{x:45,y:0,width:55,height:33.33},{x:45,y:33.33,width:55,height:33.33},{x:45,y:66.66,width:55,height:33.34}],o=["split","4-photos","1x1"],h={id:t,name:s,aspectRatio:1,zones:i,tags:o};export{e as aspectRatio,h as default,t as id,s as name,o as tags,i as zones};
